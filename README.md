@@ -1,4 +1,4 @@
-# fusion-conflits
+REMOTE
 bla 
 bla 
 bla 
